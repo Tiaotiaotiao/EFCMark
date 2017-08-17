@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EFCMark_Example' do
+  pod 'EFCMark', :path => '../'
+
+  target 'EFCMark_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

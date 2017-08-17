@@ -1,0 +1,16 @@
+PODS:
+  - EFCMark (0.0.1)
+
+DEPENDENCIES:
+  - EFCMark (from `../`)
+
+EXTERNAL SOURCES:
+  EFCMark:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EFCMark: 384f782f489f104c590dc375b9de902de37ebca3
+
+PODFILE CHECKSUM: acc58ea7f9cd820fe52b679b21346bb2dd7d5a04
+
+COCOAPODS: 1.2.1

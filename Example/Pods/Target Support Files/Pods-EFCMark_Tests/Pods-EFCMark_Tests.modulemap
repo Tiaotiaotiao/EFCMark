@@ -1,0 +1,6 @@
+framework module Pods_EFCMark_Tests {
+  umbrella header "Pods-EFCMark_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

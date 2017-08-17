@@ -1,29 +1,39 @@
-# cmark (Github Flavoured Markdown)
+# EFCMark
 
-[![Build Status](https://travis-ci.org/brokenhandsio/cmark-gfm.svg?branch=master)](https://travis-ci.org/brokenhandsio/cmark-gfm)
+[![CI Status](http://img.shields.io/travis/EyreFree/EFCMark.svg?style=flat)](https://travis-ci.org/EyreFree/EFCMark)
+[![Version](https://img.shields.io/cocoapods/v/EFCMark.svg?style=flat)](http://cocoapods.org/pods/EFCMark)
+[![License](https://img.shields.io/cocoapods/l/EFCMark.svg?style=flat)](https://github.com/EyreFree/EFCMark/blob/master/LICENSE)
+[![Platform](https://img.shields.io/cocoapods/p/EFCMark.svg?style=flat)](http://cocoapods.org/pods/EFCMark)
+[![Language: Objective-C](https://img.shields.io/badge/language-Objective--C-3f8bfe.svg)](https://travis-ci.org/EyreFree/EFCMark)
 
-`cmark-gfm` is an SPM-compatible fork of Github's implementation of the [CommonMark library](http://commonmark.org/). Github's fork adds GitHub Flavoured Markdown extensions to
+EFCMark is a CocoaPods version and also a backup of [brokenhandsio/cmark-gfm](https://github.com/brokenhandsio/cmark-gfm), `cmark-gfm` is an SPM-compatible fork of Github's implementation of the [CommonMark library](http://commonmark.org/). Github's fork adds GitHub Flavoured Markdown extensions to
 [the upstream implementation](https://github.com/jgm/cmark), as defined in [the spec](https://github.github.com/gfm/).
 
 For more information, see the [Github `cmark` repository](https://github.com/github/cmark/).
 
----
+## Example
 
-# Building
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-To build this repository, just run:
+## Requirements
 
-```bash
-swift build
+- XCode 8.0+
+
+## Installation
+
+EFCMark is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'EFCMark'
 ```
 
-# Using
+## Author
 
-To use this repository, add it to your `Package.swift` file:
+EyreFree, eyrefree@eyrefree.org
 
-```swift
-dependencies: [
-    ...,
-    .Package(url: "https://github.com/brokenhandsio/cmark-gfm", majorVersion: 1)
-]
-```
+## License
+
+![](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+EFCMark is available under the GPLv3 license. See the LICENSE file for more info.
