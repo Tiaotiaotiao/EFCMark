@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9A5E3C72DEF3BFF9B797E1F61879D2DB'
-               BlueprintName = 'EFCMark'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'EFCMark.framework'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C6C91B54E556D19610FE01641EA04BBF"
+               BlueprintName = "EFCMark"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "EFCMark.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
