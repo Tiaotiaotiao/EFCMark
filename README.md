@@ -3,6 +3,7 @@
 [![CI Status](http://img.shields.io/travis/EFPrefix/EFCMark.svg?style=flat)](https://travis-ci.org/EFPrefix/EFCMark)
 [![Version](https://img.shields.io/cocoapods/v/EFCMark.svg?style=flat)](http://cocoapods.org/pods/EFCMark)
 [![Platform](https://img.shields.io/cocoapods/p/EFCMark.svg?style=flat)](http://cocoapods.org/pods/EFCMark)
+[![QQ Group](http://image.eyrefree.org/QQGroup.png)](http://shang.qq.com/wpa/qunwpa?idkey=d0f732585dcb0c6f2eb26bc9e0327f6305d18260eeba89ed26a201b520c572c0)
 
 EFCMark is a CocoaPods version and also a backup of [brokenhandsio/cmark-gfm](https://github.com/brokenhandsio/cmark-gfm), `cmark-gfm` is an SPM-compatible fork of Github's implementation of the [CommonMark library](http://commonmark.org/). Github's fork adds GitHub Flavoured Markdown extensions to
 [the upstream implementation](https://github.com/jgm/cmark), as defined in [the spec](https://github.github.com/gfm/).
