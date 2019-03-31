@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6C91B54E556D19610FE01641EA04BBF"
+               BlueprintIdentifier = "56C7C31241203F7913913DF7EB8F6970"
+               BuildableName = "EFCMark.framework"
                BlueprintName = "EFCMark"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "EFCMark.framework">
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'EFCMark'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'A CocoaPods version of cmark-gfm.'
 
   s.description      = <<-DESC

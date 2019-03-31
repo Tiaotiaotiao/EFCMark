@@ -1,5 +1,5 @@
 PODS:
-  - EFCMark (0.0.1)
+  - EFCMark (0.0.3)
 
 DEPENDENCIES:
   - EFCMark (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EFCMark: 384f782f489f104c590dc375b9de902de37ebca3
+  EFCMark: 164424fceb84d110b600b3e36138109fae7aa901
 
 PODFILE CHECKSUM: 149ad3e91143cd945c941f3afab99b332a2e66ec
 
-COCOAPODS: 1.6.0.beta.2
+COCOAPODS: 1.6.1
