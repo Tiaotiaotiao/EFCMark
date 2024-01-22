@@ -6,7 +6,7 @@ extern "C" {
 #endif
 
 #include <stdint.h>
-#include "config.h"
+#include "config1.h"
 #include "buffer.h"
 
 #ifdef HAVE___BUILTIN_EXPECT

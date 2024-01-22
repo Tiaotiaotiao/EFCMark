@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <stdlib.h>
 
-#include "config.h"
+#include "config1.h"
 #include "node.h"
 #include "cmark.h"
 #include "iterator.h"

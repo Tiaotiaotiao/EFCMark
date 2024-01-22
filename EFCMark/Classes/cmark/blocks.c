@@ -11,7 +11,7 @@
 
 #include "cmark_ctype.h"
 #include "syntax_extension.h"
-#include "config.h"
+#include "config1.h"
 #include "parser.h"
 #include "cmark.h"
 #include "node.h"

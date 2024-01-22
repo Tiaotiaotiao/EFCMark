@@ -18,7 +18,7 @@
 #import "cmark_export.h"
 #import "cmark_extension_api.h"
 #import "cmark_version.h"
-#import "config.h"
+#import "config1.h"
 #import "core-extensions.h"
 #import "entities.inc"
 #import "ext_scanners.h"

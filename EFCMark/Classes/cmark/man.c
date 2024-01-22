@@ -3,7 +3,7 @@
 #include <string.h>
 #include <assert.h>
 
-#include "config.h"
+#include "config1.h"
 #include "cmark.h"
 #include "node.h"
 #include "buffer.h"

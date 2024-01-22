@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "config.h"
+#include "config1.h"
 #include "cmark.h"
 #include "syntax_extension.h"
 #include "registry.h"
